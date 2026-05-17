@@ -1,8 +1,16 @@
 ### Hi, I'm Saad 👋
 
-I'm a founder building **[Grona](https://grona.ai)**, an AI CRO platform that turns upstream user research into shippable site optimizations. I'm a through-and-through **vibe coder** — I turned the dial up the moment it became obvious AI coding could change the world, and now most of what I ship runs through Claude Code on engineering, marketing, and ops.
+I'm a founder building **[Grona](https://grona.ai)**, two AI products that close the gap between marketing research and shipping on the website itself.
 
-Before founding, I spent a decade on the buy side of enterprise martech at DHL (Percolate, Marketo) and Mazda (Oracle, Jivox, DY). Most of what I build now is shaped by what real enterprise buyers actually reward versus what they quietly churn off of.
+**Grona Research** is a Claude-powered chat with first-class access to your real marketing data: Facebook organic and ads, Instagram posts and comments, Google Ads, Similarweb traffic, and GA4. Paid media teams, SMEs, and marketing ops use it to research and benchmark their own brand and their competitors across every channel that matters, without stitching together six dashboards.
+
+**Grona Optimize** is a Lovable-style editor, but for the **existing web** instead of greenfield. Edit your live site via chat, then either ship the change to 100% of traffic or run it as an A/B test. No new build, no migration, no rip-and-replace.
+
+The two work together. A marketer comes in to understand their site, product positioning, and competitive landscape, then turns the insights into website changes or strategy direction for social and paid, all in one tool.
+
+In the process of building Grona, we've cracked a handful of workflow pipelines that might be worth spinning out as standalone products one day. MarketingOS, our multi-client marketing pipeline, is the most obvious candidate. Quietly excited about what comes out of the rest. :)
+
+I'm a through-and-through **vibe coder** who turned the dial up the moment it became obvious AI coding could change the world. Before founding, I spent a decade on the buy side of enterprise martech at DHL (Percolate, Marketo) and Mazda (Oracle, Jivox, DY). Most of what I build now is shaped by what real enterprise buyers reward versus what they quietly churn off of.
 
 ---
 
@@ -28,10 +36,8 @@ These practices are extracted from a production monorepo (4 product repos, marke
 
 ## What I'm building
 
-- **[Grona](https://grona.ai)** — AI CRO platform. *Grona Research* runs upstream user research from real signals (vs. ChatGPT, which can only guess from public data). *Grona Optimize* rewrites and reships variants on your existing production site (vs. Lovable, which generates greenfield).
-- **[Relevic](https://relevic.com)** — operating company.
-- **Chairos** — senior operator practice helping mid-market companies adopt AI without theatrics.
-- **MarketingOS** — internal multi-client marketing pipeline for running brand and content work at scale.
+- **[Grona](https://grona.ai)** — Grona Research + Grona Optimize, see above
+- **Chairos** — senior operator practice helping mid-market companies adopt AI without theatrics
 
 ## Stack I work in daily
 
@@ -40,5 +46,5 @@ Next.js · TypeScript · Tailwind · Supabase · makerkit · Inngest · Apify ·
 ## Reach me
 
 - Email: **admin@relevic.com**
-- Web: **[grona.ai](https://grona.ai)** · **[relevic.com](https://relevic.com)**
+- Web: **[grona.ai](https://grona.ai)**
 - LinkedIn: **[in/saadsohail5](https://linkedin.com/in/saadsohail5)**
