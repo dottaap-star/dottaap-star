@@ -45,6 +45,6 @@ Next.js · TypeScript · Tailwind · Supabase · makerkit · Inngest · Apify ·
 
 ## Reach me
 
-- Email: **admin@relevic.com**
+- Email: **hello@grona.ai**
 - Web: **[grona.ai](https://grona.ai)**
 - LinkedIn: **[in/saadsohail5](https://linkedin.com/in/saadsohail5)**
